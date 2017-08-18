@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALP-PC-054</Machine>
+    <WindowsUser>hauretouze_m</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>dd2e5578-ddd6-4236-a641-530ba88079ef</PackageIdentityName>
+    <PackageIdentityPublisher>CN=hauretouze_m</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>D356E8ABEC42E102D52C4F776CAAC02FD24274FA99DBB2EAD778628F4A10706A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker />
+    <RegisteredUserModeAppID />
+    <RegisteredPackageID>monitoring-uwp</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hauretouze_m</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-18T09:09:28.607</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-08-17T11:41:09.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T11:41:09.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T11:41:09.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T11:41:09.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T11:41:09.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T11:41:09.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T11:41:09.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\js\startuptask.js">
+      <PackagePath>js\startuptask.js</PackagePath>
+      <Modified>2017-08-18T09:07:53.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-18T09:09:28.480</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

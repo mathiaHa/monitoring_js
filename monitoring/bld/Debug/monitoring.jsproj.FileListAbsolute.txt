@@ -1,0 +1,17 @@
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bin\Debug\ReverseMap\resources.pri
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bin\Debug\AppxManifest.xml
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bin\Debug\monitoring.build.appxrecipe
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\monitoring.jsproj.CoreCompileInputs.cache
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\ResourceHandlingTask.state
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\priconfig.xml
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\priconfig.xml.intermediate
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\layout.resfiles
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\layout.resfiles.intermediate
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\resources.resfiles
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\resources.resfiles.intermediate
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\pri.resfiles
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\pri.resfiles.intermediate
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\qualifiers.txt
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\qualifiers.txt.intermediate
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hauretouze_m\source\repos\monitoring\monitoring\bld\Debug\ProjectArchitectures.txt
